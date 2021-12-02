@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"port/port"
+	"github.com/frkxo/Port-Scanner/port"
 )
 
 func main() {

@@ -12,7 +12,7 @@ Gives you all your tcp and udp ports status.
 
 ```
 ▶ go run main.go
-{0 : tcp Port Closed } {1 : tcp Port Closed } {2 : tcp Port Closed } {3 : tcp Port Closed } {4 : tcp Port Closed } {5 : tcp Port Closed }
+{0 : tcp Port Closed } {1 : tcp Port Closed } {2 : tcp Port Closed } {3 : tcp Port Closed } {4 : tcp Port Closed } 
 .
 .
 .

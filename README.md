@@ -1,13 +1,7 @@
 # PortScanner
 Dirty tcp and udp port scanner for your localhost.
 
-## Install
-
-```
-▶ git clone https://github.com/frkxo/PortScanner.git
-```
-
-##Usage
+## Usage
 Gives you all your tcp and udp ports status.
 
 ```
